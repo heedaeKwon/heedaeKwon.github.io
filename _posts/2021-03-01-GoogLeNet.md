@@ -17,9 +17,7 @@
 ---
 ###### 이전 연구들에서 object classification 과 detection 은 deep learining과 convolution networks에의해 향상되었습니다.
 ###### 이 논문은그래서 deep neural network architecture에 집중을 하였고, 새로운 모듈인 'Inception module'을 소개합니다
-###### 
-###### 
-###### 
+
 
 ### Related work
 ---
@@ -27,7 +25,7 @@
 ###### 요기서 NIN은 1x1 convolution layer를 추가합니다.
 ###### 이 효과로는 dimension reduction이있습니다
 ###### 그리고 depth와 width를 연산량 증가없이 증가시킬수있습니다
-###### 
+
 ![logo]()
 
 ### Motivation 
