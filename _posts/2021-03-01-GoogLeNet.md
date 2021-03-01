@@ -34,7 +34,7 @@
 ###### 이 효과로는 dimension reduction이있습니다
 ###### 그리고 depth와 width를 연산량 증가없이 증가시킬수있습니다
 
-![logo]()
+![logo](https://user-images.githubusercontent.com/68374734/109456140-83854180-7a9b-11eb-893f-cc2d0e0bf8b5.PNG)
 
 
 
