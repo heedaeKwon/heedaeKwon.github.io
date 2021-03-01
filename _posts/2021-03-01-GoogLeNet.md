@@ -95,6 +95,10 @@
 |Training images|1.2M|
 |error rate|Top -5, Top-1 error|
 
+###### 먼저 train때 7개의 각각의 버전을 독립적으로 train 하고 결과값들을 ensemble합니다
+###### 
+
+
 
 ### Results
 ---
