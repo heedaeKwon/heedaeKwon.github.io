@@ -56,12 +56,12 @@
 ---
 ###### Inception module은 다음과 같이 생겼습니다.
 
-![logo]()
+![logo](https://user-images.githubusercontent.com/68374734/109455781-b11dbb00-7a9a-11eb-8e1c-f9342e2498f2.PNG)
 
 ###### 이렇게 1x1 ,3x3 ,5x5로 다양한 결과를 이용하여서 Feature map을 효과적으로 추출하려고 했습니다.
 ###### 근데 5x5와같은 비싼 연산에 많은 필터가쌓이면 연산량이 많아지게 되므로 두번째 idea가 나왔습니다
 
-![logo]()
+![logo](https://user-images.githubusercontent.com/68374734/109455633-6603a800-7a9a-11eb-82c7-eba94035abf5.PNG)
 
 ###### 이것은 비싼연산인3x3,5x5에 많은 양이 들어가기 전에 1x1 conv로 필터수를 줄이게되는 것입니다. 
 ###### 그렇게 함으로써 size와 depth를 늘려도 연산량이 줄어들게 될 수 있습니다.
@@ -79,7 +79,8 @@
 ###### 이유는 이 구조가 깊게 형성되어있다보니 gradient vanishing현상이 일어날 수도 있기 때문에
 ###### 중간에 classifier를 넣은 것입니다.
 
-![logo]()
+![logo](https://user-images.githubusercontent.com/68374734/109455636-669c3e80-7a9a-11eb-9693-9b21370a4839.PNG)
+
 ###### 다음은 전 구조를 표를 이용해서 표현한 것인데 #3x3 reduction,#5x5 reduction을 보시면 채널수가 적은것을 확인할 수 있습니다.
 
 
@@ -106,14 +107,11 @@
 ### Results
 ---
 
-![logo]()
+![logo](https://user-images.githubusercontent.com/68374734/109455637-6734d500-7a9a-11eb-90af-3bd57b7ca080.PNG)
 
 
-![logo]()
+![logo](https://user-images.githubusercontent.com/68374734/109455638-6734d500-7a9a-11eb-819e-586eaa68ff56.PNG)
 
 ###### 먼저 표를 보시면 7개의 model로 144crop낸 것이 제일 낮은 error rate를 보여주었습니다.
 ###### 그리고 그 error rate가 2014 competition에서 제일 좋은 성적인 것을 보여주고있습니다.
-###### 
-###### 
-###### 
-###### 
+
