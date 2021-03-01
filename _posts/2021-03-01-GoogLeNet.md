@@ -1,13 +1,15 @@
 # Going deeper with convolution
 
 ---
-1. Introduction
-2. Related work
-3. Motivation
-4. Architecture
-5. GoogLeNet
-6. Training
-7. Results
+
+*1. Introduction*
+*2. Related work*
+*3. Motivation*
+*4. Architecture*
+*5. GoogLeNet*
+*6. Training*
+*7. Results*
+
 ---
 
 
