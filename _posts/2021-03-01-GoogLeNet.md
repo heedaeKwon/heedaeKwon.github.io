@@ -88,7 +88,7 @@
 ---
 |Hyperparameter|value|
 |------|---|
-|Optimizer|SGD(momentum 0.9|
+|Optimizer|SGD(momentum 0.9)|
 |Learning rate|decrease 4% , every 8epochs|
 |Test images|100K|
 |Validation images|50K|
