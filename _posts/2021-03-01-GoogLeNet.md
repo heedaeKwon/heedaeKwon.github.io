@@ -71,7 +71,7 @@
 ### GoogLeNet
 ---
 
-![logo]()
+![logo](https://user-images.githubusercontent.com/68374734/109455781-b11dbb00-7a9a-11eb-8e1c-f9342e2498f2.PNG)
 
 ###### GoogLeNet은 다음과 같이 구성되어있습니다.
 ###### 아까 말했던 inception module을 여러개 합쳐서 한 것인데
