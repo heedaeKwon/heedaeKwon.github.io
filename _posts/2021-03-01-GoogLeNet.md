@@ -1,5 +1,13 @@
 # Going deeper with convolution
-
+---
+1. Introduction
+2. Related work
+3. Motivation
+4. Architecture
+5. GoogLeNet
+6. Training
+7. Results
+---
 ### Introduction
 ---
 ###### 이전 연구들에서 object classification 과 detection 은 deep learining과 convolution networks에의해 향상되었습니다.
@@ -7,7 +15,7 @@
 ###### 
 ###### 
 ###### 
-
+---
 ### Related work
 ---
 ###### Related work로는 LeNet-5 에서 시작한 convolution neural networks(CNN)과, Network in Network(NIN)이있습니다.
