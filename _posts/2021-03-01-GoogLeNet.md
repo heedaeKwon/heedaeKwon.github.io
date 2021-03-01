@@ -87,6 +87,7 @@
 
 ### Training
 ---
+
 |Hyperparameter|value|
 |------|---|
 |Optimizer|SGD(momentum 0.9)|
