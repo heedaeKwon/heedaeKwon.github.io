@@ -56,7 +56,7 @@
 ---
 ###### Inception module은 다음과 같이 생겼습니다.
 
-![logo](https://user-images.githubusercontent.com/68374734/109455781-b11dbb00-7a9a-11eb-8e1c-f9342e2498f2.PNG)
+![logo](https://user-images.githubusercontent.com/68374734/109455997-3b661f00-7a9b-11eb-9258-0e6b88e1436f.PNG)
 
 ###### 이렇게 1x1 ,3x3 ,5x5로 다양한 결과를 이용하여서 Feature map을 효과적으로 추출하려고 했습니다.
 ###### 근데 5x5와같은 비싼 연산에 많은 필터가쌓이면 연산량이 많아지게 되므로 두번째 idea가 나왔습니다
