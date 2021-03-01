@@ -1,6 +1,6 @@
-# Going deeper with convolution
+# **Going deeper with convolution**
 
----
+___
 
 **1. Introduction**
 
@@ -16,19 +16,22 @@
 
 **7. Results**
 
----
+___
 
 
 
-## Introduction
----
+
+## **Introduction**
+___
+
 ###### 이전 연구들에서 object classification 과 detection 은 deep learining과 convolution networks에의해 향상되었습니다.
 ###### 이 논문은그래서 deep neural network architecture에 집중을 하였고, 새로운 모듈인 'Inception module'을 소개합니다
 
 
 
-## Related work
----
+## **Related work**
+___
+
 ###### Related work로는 LeNet-5 에서 시작한 convolution neural networks(CNN)과, Network in Network(NIN)이있습니다.
 ###### 요기서 NIN은 1x1 convolution layer를 추가합니다.
 ###### 이 효과로는 dimension reduction이있습니다
@@ -38,8 +41,9 @@
 
 
 
-## Motivation 
----
+## **Motivation**
+___
+
 ###### motivation 이 이루어진 과정을 보면
 ###### 먼저 좋은 performance를 보여주려면 size와 depth를 증가시겨야합니다.
 ###### 그렇게 되면 2개의 주된 결함이 생기는데 
@@ -52,8 +56,9 @@
 
 
 
-## Architecture
----
+## **Architecture**
+___
+
 ###### Inception module은 다음과 같이 생겼습니다.
 
 ![logo](https://user-images.githubusercontent.com/68374734/109455997-3b661f00-7a9b-11eb-9258-0e6b88e1436f.PNG)
@@ -68,7 +73,7 @@
 
 
 
-## GoogLeNet
+## **GoogLeNet**
 ---
 
 ![logo](https://user-images.githubusercontent.com/68374734/109455781-b11dbb00-7a9a-11eb-8e1c-f9342e2498f2.PNG)
@@ -85,8 +90,9 @@
 
 
 
-## Training
----
+## **Training**
+___
+
 
 |Hyperparameter|value|
 |------|---|
@@ -105,8 +111,9 @@
 
 
 
-## Results
----
+## **Results**
+___
+
 
 ![logo](https://user-images.githubusercontent.com/68374734/109455637-6734d500-7a9a-11eb-90af-3bd57b7ca080.PNG)
 
