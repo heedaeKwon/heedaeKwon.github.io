@@ -22,6 +22,6 @@
 
 ##### 다음은 이 모델의 아키텍쳐입니다
 
-![logo](https://user-images.githubusercontent.com/68374734/122783520-9b076500-d2ec-11eb-8c96-5e8a1e4af966.PNG)
+![logo](https://user-images.githubusercontent.com/68374734/122783520-9b076500-d2ec-11eb-8c96-5e8a1e4af966.PNG) 사진을보시면
 
 
