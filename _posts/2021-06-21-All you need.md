@@ -22,6 +22,10 @@
 
 ##### 다음은 이 모델의 아키텍쳐입니다
 
-![logo](https://user-images.githubusercontent.com/68374734/122783520-9b076500-d2ec-11eb-8c96-5e8a1e4af966.PNG) 사진을보시면
+![logo](https://user-images.githubusercontent.com/68374734/122783520-9b076500-d2ec-11eb-8c96-5e8a1e4af966.PNG)
+
+##### 이 아키텍쳐는 전에 인코더 디코더의 기본적 구조는 사용을 하였고 앞서 말했던 리커런트한 특성은 이용하지 않고
+##### 오직 어텐션 메커니즘만을 이용하였습니다.
+
 
 
